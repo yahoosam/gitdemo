@@ -1,3 +1,4 @@
 Added feature A
 Bug fixes feature A
 Hotfix critical issues in feature A
+Hotfix critical PROD issues in feature A (1.0.2)
