@@ -1,2 +1,3 @@
 Added feature A
 Bug fixes feature A
+Hotfix critical issues in feature A
